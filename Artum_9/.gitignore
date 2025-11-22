@@ -1,0 +1,30 @@
+# Автогенерируемые файлы проекта
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Временные файлы UE
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+
+# Файлы IDE
+.vs/
+.idea/
+*.swp
+*.swo
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи и отладочная информация
+*.log
+*.pid
+
+# Локальные настройки
+Saved/Config/*/EditorSettings.ini
+Saved/Config/*/EditorGameAgnostic.ini
